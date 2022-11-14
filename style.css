@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-2050{
+    margin-right: 200px;
+}
+.col-lg-6{
+    margin-top: 50px;
+}
+.subtitle{
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(17, 103, 129);
+}
+.title{
+        font-size: 60px;
+        font-weight: 700;
+        color: rgb(254, 254, 254);
+        padding-bottom:20px ;
+    }
+.par_lorem{
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(255, 253, 229);
+    text-align: left;
+    margin-bottom: 30px;
+}
+.fullbutton{
+    padding: 15px 45px;
+    font-size: 18px;
+    font-weight: 500;
+    border-color: rgb(13, 0, 198);
+    box-shadow: rgb(7 0 147 / 19%) 0px 5px 15px 0px;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border-radius: 25px;
+    margin-top: 20px;
+    text-decoration: none;
+
+}
+
+.about_img{
+    margin-left: -200px;
+    width: 600px;
+}
