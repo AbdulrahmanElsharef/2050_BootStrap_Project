@@ -43,6 +43,27 @@ body{
     font-weight: 700;
     color: rgb(129, 222, 246);
 }
+.subtitle-5{
+    padding-top: 50px;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(129, 222, 246);
+    margin-left: 550px;
+}
+.subtitle-6{
+    padding-top: 50px;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(129, 222, 246);
+    margin-left: 20px;
+}
+.subtitle-7{
+    padding-top: 35px;
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+
+}
 .title-1{
         font-size: 55px;
         font-weight: 700;
@@ -51,7 +72,7 @@ body{
     }
 .title-2{
         font-size: 50px;
-        font-weight: 700;
+        font-weight: 700px;
         color: rgb(254, 254, 254);
         padding-bottom:5px ;
 }  
@@ -89,59 +110,126 @@ body{
     margin-top: 30px;
 } 
 .title-8{
-    font-size: 50px;
+    font-size: 45px;
     font-weight: 700;
     color: rgb(254, 254, 254);
     padding-bottom:5px ;
     margin-top: 30px;
 } 
+.title-9{
+    font-size: 60px;
+    font-weight: 700;
+    color: rgb(254, 254, 254);
+    padding-bottom:5px ;
+
+    margin-left: 300px;
+} 
+.title-10{
+    font-size: 60px;
+    font-weight: 700;
+    color: rgb(254, 254, 254);
+    padding-bottom:75px ;
+    margin-left: 500px;
+} 
+.title-11{
+    margin-left: 85px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 100px;
+    font-weight: 800px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+} 
+.title-12{
+    margin-left: 75px;
+    font-size: 25px;
+    font-weight: 700;
+    margin-right: 100px;
+    font-weight: 800px;
+    margin-top: 100px;
+    padding-bottom: 50px;
+
+} 
+.title-13{
+    font-size: 45px;
+    font-weight: 700;
+    color: rgb(254, 254, 254);
+    padding-bottom:5px ;
+    margin-top: 30px;
+    margin-left: 20px;
+}
 .par_lorem-1{
     font-size: 20px;
     line-height: 1.5;
-    color:  rgb(151, 146, 146);
+    color: rgb(210, 193, 193);
     text-align: left;
     padding-bottom:10px ;
 }
 .par_lorem-2{
     font-size: 20px;
     line-height: 1.5;
-    color:  rgb(151, 146, 146);
+    color: rgb(210, 193, 193);
     text-align: left;
 }
 .par_lorem-3{
     font-size: 20px;
     line-height: 1.5;
-    color: rgb(151, 146, 146);
+    color: rgb(210, 193, 193);
     text-align: left;
 }
 .par_lorem-4{
     font-size: 20px;
     line-height: 1.5;
-    color: rgb(151, 146, 146);
+    color: rgb(210, 193, 193);
     text-align: left;
 }
 .par_lorem-5{
     font-size: 20px;
     line-height: 1.5;
-    color: rgb(151, 146, 146);
+    color: rgb(210, 193, 193);
     text-align: left;
 }
 .par_lorem-6{
     font-size: 20px;
     line-height: 1.5;
-    color: rgb(151, 146, 146);
+    color: rgb(210, 193, 193);
     text-align: left;
 }.par_lorem-7{
     font-size: 20px;
     line-height: 1.5;
-    color: rgb(151, 146, 146);
+    color: rgb(210, 193, 193);
     text-align: left;
 }
 .par_lorem-8{
     font-size: 20px;
     line-height: 1.5;
-    color: rgb(151, 146, 146);
+    color: rgb(210, 193, 193);
     text-align: left;
+    margin-left: -50px;
+
+}
+.par_lorem-9{
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(134, 128, 128);
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.par_lorem-10{
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(134, 128, 128);
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.par_lorem-11{
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(134, 128, 128);
+    margin-top: 20px;
+
 }
 .fullbutton{
     padding: 15px 45px;
@@ -187,6 +275,18 @@ body{
     margin-bottom: 100px;
     text-decoration: none;
 }
+.icon-2{
+    padding: 15px 15px;
+    font-size: 25;
+    font-weight: 100;
+    border-color: rgb(13, 0, 198);
+    box-shadow: rgb(7 0 147 / 19%) 0px 5px 15px 0px;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border-radius: 50px;
+    margin-top: 100px;
+    text-decoration: none;
+}
 
 #future-1{
     margin-top: 100px;
@@ -201,6 +301,37 @@ body{
 .list{
     content:  "\2713";
 };
-span {
-    content: "\2713";
-  }
+#true-mark {
+    color: rgb(70, 70, 210);
+    margin-bottom:30px ;
+}
+.icon-1{
+    margin-left: 125px;
+    padding-top: 50px;
+    width: 125px;
+}
+.circle{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 100%;
+}
+.text-box{
+    box-shadow: rgb(2 3 3 / 4%) 0px 3px 24px 3px;
+    border-bottom-color: rgb(13, 0, 198);
+    border-bottom: 3px solid #6c63ff;
+}
+#img-behind{
+    vertical-align: middle;
+    position: relative;
+    background-position: bottom ;
+    background-image: url("/product-bg.png");
+    background-repeat:no-repeat ;
+}
+.col-lg-2{
+    margin-top: 75px;
+
+}
