@@ -65,13 +65,6 @@ body{
     color: rgb(255, 255, 255);
 
 }
-.subtitle-8{
-    padding-top: 25px;
-    font-size: 25px;
-    font-weight: 700;
-    color: rgb(129, 222, 246);
-
-}
 .title-1{
         font-size: 55px;
         font-weight: 700;
@@ -166,14 +159,6 @@ body{
     margin-top: 30px;
     margin-left: 20px;
 }
-.title-14{
-    font-size: 45px;
-    font-weight: 700;
-    color: rgb(254, 254, 254);
-    padding-bottom:5px ;
-    margin-top: 10px;
-
-}
 .par_lorem-1{
     font-size: 20px;
     line-height: 1.5;
@@ -241,13 +226,6 @@ body{
 
 }
 .par_lorem-11{
-    font-size: 20px;
-    line-height: 1.5;
-    color: rgb(134, 128, 128);
-    margin-top: 20px;
-
-}
-.par_lorem-12{
     font-size: 20px;
     line-height: 1.5;
     color: rgb(134, 128, 128);
@@ -357,71 +335,4 @@ body{
 .col-lg-2{
     margin-top: 75px;
 
-}
-.image_title-1 {
-    writing-mode: vertical-rl;
-    text-orientation: mixed;
-    display: inline-block;
-    transform: rotate(180deg);
-    font-size: 25px;
-    font-weight: 600;
-    color: rgb(230, 227, 227);
-    margin-top: 60px;
-    margin-left: -25px;
-
-}
-.image_title-2 {
-    writing-mode: vertical-rl;
-    text-orientation: mixed;
-    display: inline-block;
-    font-size: 25px;
-    font-weight: 600;
-    color: rgb(230, 227, 227);
-    margin-top: -70px;
-    margin-left: -40px;
-
-}
-.image_title-3 {
-    writing-mode: vertical-rl;
-    text-orientation: mixed;
-    display: inline-block;
-    transform: rotate(180deg);
-    font-size: 25px;
-    font-weight: 600;
-    color: rgb(230, 227, 227);
-    margin-top: 175px;
-    margin-left: 150px;
-
-}
-.image_title-4 {
-    writing-mode: vertical-rl;
-    text-orientation: mixed;
-    display: inline-block;
-    font-size: 25px;
-    font-weight: 600;
-    color: rgb(230, 227, 227);
-    margin-top: -0px;
-    margin-left: -35px;
-
-}
-
-#team-img1{
-    height: 300px;
-    width: 250px;
-    margin-left: -50px;
-}
-#team-img2{
-    height: 300px;
-    width: 250px;
-    /* margin-right: -20px; */
-}
-#team-img3{
-    height: 350px;
-    width: 250px;
-    margin-left:-40px ;
-}
-#team-img4{
-    height: 350px;
-    width: 250px;
-    margin-left:-25px ;
 }
