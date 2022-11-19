@@ -72,6 +72,13 @@ body{
     color: rgb(129, 222, 246);
 
 }
+.subtitle-9{
+    padding-top: 250px;
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(129, 222, 246);
+    margin-left: 45%;
+}
 .title-1{
         font-size: 55px;
         font-weight: 700;
@@ -174,6 +181,15 @@ body{
     margin-top: 10px;
 
 }
+.title-15{
+    font-size: 45px;
+    font-weight: 700;
+    color: rgb(254, 254, 254);
+    padding-bottom:5px ;
+    margin-top: 10px;
+    margin-left: 40%;
+
+}
 .par_lorem-1{
     font-size: 20px;
     line-height: 1.5;
@@ -252,6 +268,14 @@ body{
     line-height: 1.5;
     color: rgb(134, 128, 128);
     margin-top: 20px;
+
+}
+.par_lorem-13{
+    font-size: 30px;
+    line-height: 1.5;
+    color: rgb(134, 128, 128);
+    margin-top: 20px;
+    margin-left: 20%;
 
 }
 .fullbutton{
@@ -348,11 +372,10 @@ body{
     border-bottom: 3px solid #6c63ff;
 }
 #img-behind{
-    vertical-align: middle;
-    position: relative;
-    background-position: bottom ;
-    background-image: url("/product-bg.png");
-    background-repeat:no-repeat ;
+    background-color: #f0f6fb;
+    border-radius: 50%;
+    width: max-content;
+    height: max-content;
 }
 .col-lg-2{
     margin-top: 75px;
@@ -424,4 +447,27 @@ body{
     height: 350px;
     width: 250px;
     margin-left:-25px ;
+}
+.container-background{
+    background-color: #f0f6fb;
+    height: 300px;
+    margin-bottom: -500px;
+    border-bottom-left-radius:35%;
+    border-bottom-right-radius:35%;
+}
+.card{
+width: 17rem;
+}
+.card img:hover{
+
+    transform:scale(1.03);
+}
+.card-text1{
+    font-size:30px ;
+    font-weight: 400px;
+    color: rgba(255, 253, 229, 0.6);
+}
+.card-text2{
+    font-size:20px ;
+    font-weight: 900px;
 }
